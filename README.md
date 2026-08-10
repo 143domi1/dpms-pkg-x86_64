@@ -9,5 +9,5 @@ Licensed under the **DGSL**.
 **Software** which is downloadable with the **DPMS** utility is **NOT** under the same license as **DPMS** or **DGSL** unless it is explictly noted in the softwares repository or website.
 
 
-**DGSL** - DISCOVERY GREATER PUBLIC LICENSE
+**DGSL** - DISCOVERY GREATER PUBLIC LICENSE\n
 **DPMS** - DISCOVERY PACKAGE MANAGMENT SYSTEM
