@@ -4,4 +4,7 @@ A pkg tree for x86_64 system
 
 
 ## License
-Licensed under the **DGSL**
+Licensed under the **DGSL** 
+
+
+(**DGSL** - DISCOVERY GREATER PUBLIC LICENSE)
